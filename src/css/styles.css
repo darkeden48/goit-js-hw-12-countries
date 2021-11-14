@@ -1,6 +1,6 @@
 body {
     font-size: 25px;
-  }
+  };
   
   li {
     margin-left: 20px;
@@ -9,6 +9,8 @@ body {
   .form-control {
     font-size: 25px;
     margin: 30px auto;
+    display: flex;
+    justify-content: center;
   }
   
   .card {
